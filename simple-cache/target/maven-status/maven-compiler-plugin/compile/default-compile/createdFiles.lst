@@ -1,0 +1,6 @@
+com\hid\cache\CacheManager$CacheValue.class
+com\hid\cache\CacheOverFlowException.class
+com\hid\cache\CacheManager.class
+com\hid\cache\MemcachedJava.class
+com\hid\cache\CacheManager$1.class
+com\hid\cache\IGenericCache.class
